@@ -58,6 +58,3 @@ This project is a desktop widget built with React and Electron, displaying your 
   npm run build
   ```
 
-## 📄 License
-
-This project is licensed under the MIT License.
